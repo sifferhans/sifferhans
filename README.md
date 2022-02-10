@@ -1,4 +1,5 @@
 # Hi, I'm Sigve!
+I enjoy designing and developing user interfaces.
 
 <!---
 sifferhans/sifferhans is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
